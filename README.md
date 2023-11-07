@@ -1,6 +1,8 @@
 # Clone da pagina inicial do TikTok
 
 Esse projeto foi feito com React, e para a estilização foi usado Tailwind.
+Também foi usar useState().
+Os números de likes, comentarios, save, share foi usado Math.Random() para facilitar, então quando atualizar a página os números irão mudar.
 
 Para abrir o projeto no computador tem que baixar os arquivos, ir até o terminal e acessar a pasta raiz do projeto.
 Em seguida, executar o comando para instalar as dependências:
