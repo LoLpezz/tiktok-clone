@@ -21,4 +21,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
-<img src=""/>
+<img src="https://github.com/LoLpezz/tiktok-clone/blob/main/tiktok.PNG"/>
